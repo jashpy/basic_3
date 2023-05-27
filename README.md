@@ -1,1 +1,1 @@
-# basic_3
+depth mechanism of loops(generator.iterator),list comprehension,basics of functions
